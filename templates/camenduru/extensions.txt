@@ -12,6 +12,7 @@ https://github.com/camenduru/sd-webui-tunnels
 https://github.com/etherealxx/batchlinks-webui
 https://github.com/camenduru/stable-diffusion-webui-catppuccin
 https://github.com/KohakuBlueleaf/a1111-sd-webui-locon
+https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
 https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 https://github.com/camenduru/sd_webui_stealth_pnginfo

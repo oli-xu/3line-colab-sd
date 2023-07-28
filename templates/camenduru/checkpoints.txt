@@ -1,1 +1,1 @@
-https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v2.safetensors
+https://civitai.com/api/download/models/57618
